@@ -4,7 +4,7 @@ After review of datasets illustrating bike sharing data for New York City, resta
 
 The key points are illustrated in the following analysis.
 
-![Tableau_Story](https://public.tableau.com/profile/angela.rivers#!/vizhome/bikesharing_16001242614980/Challenge?publish=yes)
+[Tableau_Story](https://public.tableau.com/profile/angela.rivers#!/vizhome/bikesharing_16001242614980/Challenge?publish=yes)
 
 ## Average NYC Trip Duration by Age
 
@@ -32,7 +32,7 @@ My fifth story point shows the top starting locations for bike rentals in NYC. M
 
 My sixth story point illustrates the top ending locations for bike rentals in NYC. Just as with the starting locations, the data is centered around tourist areas further proving that tourism is good for bike rentals. Des Moines has many tourist attractions as illustrated on the tourism website.
 
-![Des_Moines_Tourism](https://www.catchdesmoines.com/things-to-do/)
+[Des_Moines_Tourism](https://www.catchdesmoines.com/things-to-do/)
 
 # Summary
 
